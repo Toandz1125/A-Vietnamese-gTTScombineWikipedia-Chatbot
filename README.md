@@ -1,2 +1,2 @@
 # VietGPT-VoiceBot-A-Vietnamese-gTTScombineWikipedia-Chatbot
-create a chatbot that can answer definition questions
+VietGPT VoiceBot: Chatbot automatically recognizes Vietnamese voice and uses the Wikipedia for natural language interaction.
