@@ -1,20 +1,18 @@
 # A-Vietnamese-gTTScombineWikipedia-Chatbot
 VoiceBot: Chatbot automatically recognizes Vietnamese voice and uses the Wikipedia for natural language interaction.
 
-## Giới thiệu
-Dự án này là một chatbot tiếng Việt sử dụng công nghệ nhận diện giọng nói và tổng hợp giọng nói (gTTS) để tương tác tự nhiên với người dùng. Chatbot có khả năng truy cập thông tin từ Wikipedia và trả lời các câu hỏi của người dùng bằng giọng nói.
+## Introduction
+This project is a Vietnamese chatbot that uses speech recognition and text-to-speech (gTTS) technology to interact naturally with users. The chatbot has the ability to access information from Wikipedia and respond to user inquiries with voice.
 
-## Tính năng
-- **Nhận diện giọng nói**: Chatbot có khả năng nhận diện giọng nói tiếng Việt và chuyển đổi thành văn bản.
-- **Tổng hợp giọng nói**: Sử dụng gTTS để chuyển đổi văn bản thành giọng nói tiếng Việt.
-- **Tương tác với Wikipedia**: Chatbot có thể tìm kiếm và cung cấp thông tin từ Wikipedia dựa trên câu hỏi của người dùng.
-- **Thông tin thời gian**: Chatbot có thể cung cấp thông tin về ngày tháng và giờ hiện tại.
-- **Phản hồi tự nhiên**: Chatbot có thể trả lời các câu hỏi thông thường và tương tác với người dùng một cách tự nhiên.
-
-## Cách sử dụng
-1. **Cài đặt môi trường**: Đảm bảo bạn đã cài đặt Python 3.x trên máy tính của mình.
-2. **Cài đặt các thư viện cần thiết**: Sử dụng pip để cài đặt các thư viện cần thiết:
-
+## Features
+- **Speech Recognition**: The chatbot can recognize Vietnamese speech and convert it into text.
+- **Text-to-Speech**: It uses gTTS to convert text into Vietnamese speech.
+- **Interaction with Wikipedia**: The chatbot can search for and provide information from Wikipedia based on user questions.
+-**Time Information**: The chatbot can provide information about the current date and time.
+- **Natural Responses**: The chatbot can answer common questions and interact with users in a natural manner.
+## How to Use
+1. **Set Up the Environment**: Ensure that you have Python 3.x installed on your computer.
+2. **Install Required Libraries**: Use pip to install the necessary libraries:
 - *Speech_Recognition*: 
    + Use pip to install speech recognition:
      ```bash
@@ -37,12 +35,12 @@ Dự án này là một chatbot tiếng Việt sử dụng công nghệ nhận d
      ```bash
      pip install wikipedia
      ```
-Liên hệ
+CONTACT
 -------
-  Nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với tôi qua email hoặc thông tin liên hệ tại trang GitHub.
+  If you have any questions, please contact me via email or the contact information on my GitHub page.
 
 
-Tác giả
+AUTHOR
 -------
 
 -   MAI THE TOAN
