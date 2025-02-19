@@ -37,10 +37,12 @@ Dự án này là một chatbot tiếng Việt sử dụng công nghệ nhận d
      ```bash
      pip install wikipedia
      ```
-## Liên hệ
+Liên hệ
+-------
   Nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với tôi qua email hoặc thông tin liên hệ tại trang GitHub.
 
-## Tác giả
+
+Tác giả
 -------
 
 -   MAI THE TOAN
